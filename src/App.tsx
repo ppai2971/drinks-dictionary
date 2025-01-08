@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import Rum from './Rum'
+import Glass from './Glass'
 import './App.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         My glass of rum!
-        <Rum />
+        <Glass />
       </div>
     </>
   )
